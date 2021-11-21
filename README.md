@@ -23,4 +23,6 @@ python setup.py install
 5. Download the pre-trained Mask R-CNN 2.0 ()mark_rcnn_coco.h5) weight from the following link  
 https://github.com/matterport/Mask_RCNN/releases  
 
+6. Use jupyter notebook to open the code file  
+
 7. Modify the directory inside the code, and it should be able to run  
